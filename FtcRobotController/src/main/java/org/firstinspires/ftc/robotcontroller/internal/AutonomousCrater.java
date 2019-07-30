@@ -23,7 +23,7 @@ import org.firstinspires.ftc.robotcore.external.navigation.VuforiaLocalizer.Came
 import org.firstinspires.ftc.robotcore.external.tfod.TFObjectDetector;
 import java.util.List;
 import java.lang.*;
-
+// Code for Auto on Crater Side
 @Autonomous(name="AutonomousCrater", group="Linear Opmode")
 
 public class AutonomousCrater extends LinearOpMode {
