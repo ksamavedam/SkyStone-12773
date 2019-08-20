@@ -78,6 +78,7 @@ import java.util.List;
  *
  * IMPORTANT: In order to use this OpMode, you need to obtain your own Vuforia license key as
  * is explained below.
+ * This is a test for GIT
  */
 
 @TeleOp(name="Concept: Vuforia Navigation7", group ="Concept")
